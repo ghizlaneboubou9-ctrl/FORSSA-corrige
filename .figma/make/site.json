@@ -1,0 +1,10 @@
+{
+  "description": "Connects job seekers with trusted professionals and craftsmen, facilitating transparent hiring, progress tracking, and reliable reviews for quality service.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
